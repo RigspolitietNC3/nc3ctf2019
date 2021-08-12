@@ -1,0 +1,24 @@
+Husk at et "flag" bare er en tekst, der skal findes i hver eneste opgave.
+
+Disse flag har altid samme format:
+
+	NC3{eksempel_på_et_flag}
+
+Her er flaget altså:
+
+	eksempel_på_et_flag
+
+Denne tekst indtastes derfor som flaget på konkurrencens hjemmeside.
+
+
+
+Et godt fif er at bruge CyberChef, der kan konvertere mange forskellige data formater.
+
+Vi starter ud med en lille opgave, hvor alle kan være med:
+
+Find nu flaget i denne tekst:
+
+
+	3CN{gej_re_dem}
+
+
